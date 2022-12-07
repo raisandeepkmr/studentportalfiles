@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "638d3a195116b2d64f080527"
+  },
+  "name": "Sandeep Rai",
+  "number": "7007276880",
+  "email": "sxr76880@ucmo.edu",
+  "numCourses": "0",
+  "password": "password",
+  "_class": "edu.ucmo.studentenrollment.model.Student"
+},{
+  "_id": {
+    "$oid": "638d59ca6100b0337f9082ab"
+  },
+  "name": "Tanuja Pasupuleti",
+  "number": "7007276881",
+  "email": "txp76880@ucmo.edu",
+  "numCourses": "0",
+  "password": "password1",
+  "_class": "edu.ucmo.studentenrollment.model.Student"
+},{
+  "_id": {
+    "$oid": "638de50f5c87292731865e46"
+  },
+  "name": "Pradeep Rai",
+  "number": "000000000001",
+  "email": "prd76880@ucmo.edu",
+  "numCourses": "0",
+  "password": "password",
+  "_class": "edu.ucmo.studentenrollment.model.Student"
+},{
+  "_id": {
+    "$oid": "638df7dc5c87292731865e47"
+  },
+  "name": "Preeti Rai",
+  "number": "000000000002",
+  "email": "prt76880@ucmo.edu",
+  "numCourses": "0",
+  "password": "password",
+  "_class": "edu.ucmo.studentenrollment.model.Student"
+},{
+  "_id": {
+    "$oid": "6390b1199ad0343cec30c28e"
+  },
+  "name": "Test User1",
+  "number": "100000000004",
+  "email": "test@ucmo.edu",
+  "numCourses": "0",
+  "password": "password",
+  "_class": "edu.ucmo.studentenrollment.model.Student"
+}]

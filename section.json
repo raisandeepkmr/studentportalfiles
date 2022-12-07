@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6390b1c79ad0343cec30c291"
+  },
+  "courseId": "7",
+  "roomId": "CS101",
+  "availableSpace": "40",
+  "facultyId": "7007276890",
+  "time": "Mon Dec 12 08:00:00 SAST 2022",
+  "days": "MON",
+  "_class": "edu.ucmo.studentenrollment.model.Section"
+},{
+  "_id": {
+    "$oid": "6390b1c79ad0343cec30c292"
+  },
+  "courseId": "7",
+  "roomId": "CS101",
+  "availableSpace": "40",
+  "facultyId": "7007276890",
+  "time": "Tue Dec 13 10:50:00 SAST 2022",
+  "days": "TUE",
+  "_class": "edu.ucmo.studentenrollment.model.Section"
+}]

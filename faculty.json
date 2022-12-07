@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "638d7a335116b2d64f080540"
+  },
+  "faculty_id": "prof01",
+  "name": "Yousuf",
+  "number": "7007276890",
+  "email": "yousuf@ucmo.edu",
+  "courses": "0",
+  "password": "password",
+  "department": "cs"
+},{
+  "_id": {
+    "$oid": "6390b1759ad0343cec30c290"
+  },
+  "name": "Faculty One",
+  "number": "100000000005",
+  "email": "faculty1@ucmo.edu",
+  "courses": "",
+  "password": "password",
+  "department": "CS",
+  "_class": "edu.ucmo.studentenrollment.model.Faculty"
+}]

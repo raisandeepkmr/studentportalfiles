@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "6343a42e5ef6aed1597f0609"
+  },
+  "campus_id": 0,
+  "name": "UMC Warrensburg",
+  "description": "Warrensburg is the main campus",
+  "location": "Warrensburg, Missouri"
+}]

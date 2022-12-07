@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63907cd43b287317767f1472"
+  },
+  "name": "CS101",
+  "campusName": "MIC",
+  "capacity": "40",
+  "floor": "1",
+  "description": "This is a test class",
+  "_class": "edu.ucmo.studentenrollment.model.ClassRoom"
+},{
+  "_id": {
+    "$oid": "6390b13e9ad0343cec30c28f"
+  },
+  "name": "CS103",
+  "campusName": "MIC",
+  "capacity": "40",
+  "floor": "1",
+  "description": "This is a test 3",
+  "_class": "edu.ucmo.studentenrollment.model.ClassRoom"
+}]

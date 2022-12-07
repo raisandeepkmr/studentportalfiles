@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "638fd7dd97145c1e2e2a4b7b"
+  },
+  "courseId": "7",
+  "facultyId": "7007276890",
+  "minimumChrs": "3",
+  "code": "CS101",
+  "name": "CS Test Course",
+  "description": "This is a test course",
+  "_class": "edu.ucmo.studentenrollment.model.Course"
+}]

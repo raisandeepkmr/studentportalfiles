@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "638dcad75116b2d64f080552"
+  },
+  "name": "usernum",
+  "userId": 5,
+  "courseId": 8,
+  "sectionId": 0,
+  "_class": "edu.ucmo.studentenrollment.model.UtilCollection"
+}]
