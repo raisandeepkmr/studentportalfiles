@@ -1,12 +1,23 @@
 [{
   "_id": {
-    "$oid": "638fd7dd97145c1e2e2a4b7b"
+    "$oid": "63930a42c090233fb2f82e6b"
   },
-  "courseId": "7",
+  "courseId": "10",
   "facultyId": "7007276890",
   "minimumChrs": "3",
-  "code": "CS101",
-  "name": "CS Test Course",
-  "description": "This is a test course",
+  "code": "CS102",
+  "name": "CS Test Course 2",
+  "description": "This is a test course 2",
+  "_class": "edu.ucmo.studentenrollment.model.Course"
+},{
+  "_id": {
+    "$oid": "63930a9fc090233fb2f82e6c"
+  },
+  "courseId": "11",
+  "facultyId": "100000000005",
+  "minimumChrs": "3",
+  "code": "CS103",
+  "name": "CS Test Course 3",
+  "description": "This is a test course 3",
   "_class": "edu.ucmo.studentenrollment.model.Course"
 }]

@@ -16,6 +16,17 @@
   "name": "Faculty One",
   "number": "100000000005",
   "email": "faculty1@ucmo.edu",
+  "courses": "0",
+  "password": "password",
+  "department": "CS",
+  "_class": "edu.ucmo.studentenrollment.model.Faculty"
+},{
+  "_id": {
+    "$oid": "63935b4314848017e519128a"
+  },
+  "name": "Zu Gozu",
+  "number": "100000000007",
+  "email": "zu@ucmo.edu",
   "courses": "",
   "password": "password",
   "department": "CS",

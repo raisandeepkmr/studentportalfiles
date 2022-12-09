@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6393360aaee0b627f221cbeb"
+  },
+  "scheduleId": "6390b1c79ad0343cec30c291",
+  "studentId": "7007276880",
+  "roomId": "CS101",
+  "_class": "edu.ucmo.studentenrollment.model.Enrolled"
+},{
+  "_id": {
+    "$oid": "639341a85727ee49e0827bcb"
+  },
+  "scheduleId": "6390b1c79ad0343cec30c291",
+  "studentId": "7007276880",
+  "roomId": "CS101",
+  "_class": "edu.ucmo.studentenrollment.model.Enrolled"
+}]

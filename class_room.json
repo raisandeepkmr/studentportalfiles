@@ -18,4 +18,14 @@
   "floor": "1",
   "description": "This is a test 3",
   "_class": "edu.ucmo.studentenrollment.model.ClassRoom"
+},{
+  "_id": {
+    "$oid": "6392807cc090233fb2f82e68"
+  },
+  "name": "CS500",
+  "campusName": "MIC",
+  "capacity": "40",
+  "floor": "2",
+  "description": "This is 500 Class",
+  "_class": "edu.ucmo.studentenrollment.model.ClassRoom"
 }]

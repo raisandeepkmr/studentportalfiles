@@ -5,7 +5,7 @@
   "name": "Sandeep Rai",
   "number": "7007276880",
   "email": "sxr76880@ucmo.edu",
-  "numCourses": "0",
+  "numCourses": "2",
   "password": "password",
   "_class": "edu.ucmo.studentenrollment.model.Student"
 },{
@@ -40,11 +40,11 @@
   "_class": "edu.ucmo.studentenrollment.model.Student"
 },{
   "_id": {
-    "$oid": "6390b1199ad0343cec30c28e"
+    "$oid": "63935bb414848017e519128c"
   },
-  "name": "Test User1",
-  "number": "100000000004",
-  "email": "test@ucmo.edu",
+  "name": "Bikar",
+  "number": "100000000009",
+  "email": "bik@ucmo.edu",
   "numCourses": "0",
   "password": "password",
   "_class": "edu.ucmo.studentenrollment.model.Student"

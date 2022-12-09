@@ -1,7 +1,7 @@
 [{
   "_id": "",
-  "email": "admin@ucmo.edu",
-  "token": "fea1067f-c397-49b4-85ce-8ab62ec973ee",
-  "expiry": "Wed Dec 07 19:27:49 SAST 2022",
+  "email": "zu@ucmo.edu",
+  "token": "c822e1a3-6d9d-439c-b788-fbffab9d9447",
+  "expiry": "Fri Dec 09 20:21:04 SAST 2022",
   "_class": "edu.ucmo.studentenrollment.model.LoginSession"
 }]
